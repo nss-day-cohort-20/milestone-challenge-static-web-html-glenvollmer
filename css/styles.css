@@ -1,0 +1,95 @@
+body {
+  background-repeat: repeat-y repeat-x;
+  background-size: 2vw;
+  background-attachment: fixed;
+}
+
+h1 {
+	font-size: 6vw;
+  text-align: center;
+  font-family: 'Shrikhand', cursive;
+  border: 5px solid;
+  border-color: red blue green yellow;
+  margin: 5% 30% 6% 30%; 
+  background-color: white;
+}
+
+
+h3 {
+  font-family: 'Shrikhand', cursive;
+}
+
+
+img.glen {
+	display: block;
+	border-radius: 100%;
+	margin: auto;
+  border: 3px solid black;
+}
+
+section {
+  text-align: center;
+}
+
+
+#bio {
+	font-size: 3vw;
+  padding-bottom: .5px;
+  border: 5px solid;
+  border-color: yellow red blue green;
+  margin: 2% 40% 0 40%;
+  background-color: white;
+}
+
+p {
+  border: 2px solid black;
+  background-color: white;
+  margin: 2% 20% 0 20%;
+  font-size: 2vw;
+  word-wrap: break-word;
+  padding: 1%;
+}
+
+#projects {
+  font-size: 2vw;
+  border: 5px solid;
+  border-color: green yellow red blue;
+  margin: 2% 40% 2% 40%;
+  background-color: white;
+}
+
+#blog {
+  font-size: 2vw;
+  border: 5px solid;
+  border-color: blue green yellow red;
+  margin: 2% 40% 2% 40%;
+  background-color: white;
+}
+
+footer {
+  border: 5px solid;
+  border-color: red blue green yellow;
+  background-color: white;
+  text-align: center;
+  font-family: 'Shrikhand', cursive;
+}
+
+a:hover {
+  color: pink;
+}
+
+a {
+  padding:0 2% 0 2%;
+  font-size: 2vw;
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
